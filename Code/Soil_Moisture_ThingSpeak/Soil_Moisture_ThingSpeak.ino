@@ -26,8 +26,8 @@ int status = WL_IDLE_STATUS;
 WiFiClient  client;
 
 /* ThingSpeak Credentials  */
-unsigned long myChannelNumber = "YOUR-CHANNEL-NUMBER";  // Enter your channel number from ThingSpeak
-const char * myWriteAPIKey = 00000000000000;            //Enter your Write API Key from ThingSpeak
+unsigned long myChannelNumber = 00000000000000;               // Enter your channel number from ThingSpeak
+const char * myWriteAPIKey = "YOUR-WRITE-API-KEY";            //Enter your Write API Key from ThingSpeak
 
 void setup() {
   Serial.begin(115200);
