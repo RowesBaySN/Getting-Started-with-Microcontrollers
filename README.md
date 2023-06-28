@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/3807830d-8f9a-44b0-b9e4-74a898710d25)](https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers)
+  
 # Getting Started with Microcontrollers
 In this repository, you will find updates and guides provided by Townsville City Council's ```Living Lab!```
 
