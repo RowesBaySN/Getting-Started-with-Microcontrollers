@@ -11,3 +11,10 @@ Click through the guides from the ```Wiki``` tab (1 onwards) to learn how to cre
 <img src="https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/3a22e9a1-a4b3-4497-aad5-6952d9d5b847" width="210"/> 
 
 (Above from left to right: Rowes Bay Sensory Network's water quality buoy, indoor house luminace, temperature and humidity sensors, soil moisture and soil temperature sensor, bird acoustics sensor)  
+
+<br><br><br>  
+
+<img src="https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/ea85292b-993a-432b-b722-eef3ee949f94" width="400"/> 
+<img src="https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/e271e798-686b-4fa3-af69-7793aa4acdc0" width="220"/> 
+  
+(Above from left to right: Data Visualisation for water quality buoy, visualisation for soil moisture and soil temperature sensor)  
