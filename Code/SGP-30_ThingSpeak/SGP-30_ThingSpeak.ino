@@ -62,7 +62,7 @@ void setup()
   Serial.print(sgp.serialnumber[1], HEX);
   Serial.println(sgp.serialnumber[2], HEX);
 
-  //sgp.setIAQBaseline(0x8E68, 0x8F41);                     // Set your baseline here
+  sgp.setIAQBaseline(0x98C4, 0x9E7B);                     // Set your baseline here
 
   // Connect to Wi-Fi
   connectWiFi();
