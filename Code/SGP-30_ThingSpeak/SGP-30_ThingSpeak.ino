@@ -19,8 +19,8 @@
 Adafruit_SGP30 sgp;
 
 /* Wi-Fi Credentials */
-char ssid[] = "TCC-Sensors";                            // Your network SSID (name)
-char pswd[] = "5Birds+Feathers";                        // Your network password
+char ssid[] = "YOUR-NETWORK-SSID";                      // Your network SSID (name)
+char pswd[] = "YOUR-NETWORK-PASSWORD";                  // Your network password
 int status = WL_IDLE_STATUS;
 WiFiClient client;
 
