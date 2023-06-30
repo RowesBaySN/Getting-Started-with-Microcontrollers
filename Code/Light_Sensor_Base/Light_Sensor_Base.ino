@@ -1,5 +1,5 @@
 /*
-   Code for getting a lux reading from a light sensor
+   Code for getting a lux reading from a Light Sensor
 
    Author: Tristan Fivaz
 
@@ -35,7 +35,7 @@ void setup() {
 void loop() {
   // Read analog value from the sensor and convert it to voltage
   int analog_value = analogRead(analog_pin);
-  float sensor_voltage = analog_value * (5.0 / 1023.0);
+  float sensor_voltage = analog_value * (3.3 / 1023.0);
 
   // Convert sensor voltage to lux
   float lux_value = voltage_to_lux(sensor_voltage);
