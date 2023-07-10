@@ -4,7 +4,7 @@
 In this repository, you will find updates and guides provided by Townsville City Council's ```Living Lab!```
 
 Instructions: 
-Click through the guides from the ```Wiki``` tab (1 onwards) to learn how to create and apply low-cost sensing technology.
+Click through the guides from the [Wiki](https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/wiki) tab to learn how to create and apply low-cost sensing technology.
 
   
 <img src="https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/70bac130-bd5e-4422-9ee1-8a580ce3f863" width="200"/> 
